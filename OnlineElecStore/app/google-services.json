@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315159965921",
+    "project_id": "elecstore-c27f9",
+    "storage_bucket": "elecstore-c27f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315159965921:android:cf5e48415ae087859307a0",
+        "android_client_info": {
+          "package_name": "com.example.onlineelecstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315159965921-hmhuunp542irc9au376jl9h3g1ep1haq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtl86b2WkrjEVKr5VKhSNuVBZUzCPUi4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315159965921-hmhuunp542irc9au376jl9h3g1ep1haq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
